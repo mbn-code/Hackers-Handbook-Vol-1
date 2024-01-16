@@ -1,7 +1,6 @@
 ---
 title: Nmap - Network Mapper
 description: Learn what Nmap is, how to install it, its legal aspects, and practical usage.
-layout: ../../layouts/MainLayout.astro
 ---
 
 # Demystifying Nmap 🔍
