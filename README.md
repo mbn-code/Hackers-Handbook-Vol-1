@@ -1,5 +1,6 @@
 # Hackers-Handbook-Vol-1
 This is the public repository for the Hackers Handbook with a couple of the first pages :) in a markdown format.
+If you want to get the full version of the book and sharpen your skills, you can purchase a copy at [icyspongebob patreon](https://www.patreon.com/icysponge/shop/hackers-handbook-vol-1-103217?source=storefront)
 
 # Welcome to the *Hackers Handbook* Vol. 1! 🔒💻
 
