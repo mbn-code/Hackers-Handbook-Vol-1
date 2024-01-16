@@ -1,7 +1,6 @@
 ---
 title: Virtual Machines -> Setting One Up
 description: Learn about Virtual Machines (VMs), how to set them up, and utilize them effectively.
-layout: ../../layouts/MainLayout.astro
 ---
 
 # Demystifying Virtual Machines 🛠️
