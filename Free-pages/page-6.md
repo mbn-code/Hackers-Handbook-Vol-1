@@ -1,12 +1,11 @@
 ---
 title: Metasploit Framework 🔐
 description: Learn about Metasploit, its purpose, and how to use it responsibly.
-layout: ../../layouts/MainLayout.astro
 ---
 
 ## Setup Before We Begin 🛠
 
-Ensure you've set up your [Metasploitable VM](page-metasploitable) before delving into the Metasploit Framework.
+Ensure you've set up your [Metasploitable VM - not free] before delving into the Metasploit Framework.
 
 ## What is Metasploit Framework? 🌐
 
