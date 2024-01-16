@@ -1,7 +1,6 @@
 ---
 title: Phishing ⚙️
 description: Learn about phishing, its purpose, and how to use it responsibly.
-layout: ../../layouts/MainLayout.astro
 ---
 
 # Understanding Phishing 🎣
